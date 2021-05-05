@@ -1,0 +1,1 @@
+EXEC spVariableData @infoType ='Fkjdfk'

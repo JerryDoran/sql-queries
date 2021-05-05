@@ -1,0 +1,1 @@
+EXEC spVariableData @InfoType = 'ALL'

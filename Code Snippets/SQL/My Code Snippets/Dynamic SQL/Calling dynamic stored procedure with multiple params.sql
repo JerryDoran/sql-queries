@@ -1,0 +1,1 @@
+EXEC spVariableTable 'tblFilm', 3

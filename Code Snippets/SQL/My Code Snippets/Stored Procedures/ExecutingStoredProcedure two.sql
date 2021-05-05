@@ -1,0 +1,1 @@
+EXEC spFilmCriteria @Title='die'
